@@ -7,7 +7,26 @@
   Create location option defines where to save.<br>
   The area that 1024 written on it defines randomly generated key length.<br>
   Username and Password is self explanatory.
-  </2>
-  <h2>Create Permission file.</h2>
+  </p1>
+  <h2>Create Graaf file.</h2>
 <img src="https://raw.githubusercontent.com/Cryptor-droid/graaf/master/Images/a%201.jpg" style="float:left">
 <p1>Pretty much self explanatory.</p1>
+<h2>Decrypt</h2>
+<img src="https://raw.githubusercontent.com/Cryptor-droid/graaf/master/Images/b.jpg" style="float:left">
+<p1>It's also Pretty much self explanatory.</p1>
+<h2>Permission Viewer</h2>
+<img src="https://raw.githubusercontent.com/Cryptor-droid/graaf/master/Images/c.jpg" style="float:left">
+<p1>This tab can be used for creating manual or editted permission files. <br>
+This tab is for viewing content of permission files and se if they corrupted or not.</p1>
+<h3>Creating Manual Permission files</h3>
+<p1>For this action you can ignore select permission file area on the top.<br>
+  you can write everything in any of those areas. (be sure you put ";" in date area)<br>
+  after you finished you can Save it and use it with username and password you entered on top.
+</p1>
+<h3>Viewing & Editing Permission files</h3>
+<h4>Do Not Owerwrite a permission file if you used it for creating graaf file. If you owerwrite permission file, your graaf file become unreadable.</h4>
+<p1>For this action you need to select a permission file using Permission file area.<br>
+and you need to enter username and password of that permission file.<br>
+Then just press view button and informations will fillup the areas under. (View button located left of the password label)<br>
+You can edit and save the Permission file.
+</p1>
