@@ -29,7 +29,7 @@ This tab is for viewing content of permission files and see if they corrupted or
   after you have finished you can Save it and use it with username and password you entered on top.
 </p1>
 <h3>Viewing & Editing Permission files</h3>
-<h4>If you have used the permission file for creating a graaf file DO NOT OVERWRITE. If you overwrite permission file, your graaf file will become unreadable.</h4>
+<h4>If you have used the permission file for creating a graaf file DO NOT OVERWRITE. If you overwrite permission file, your graaf file become unreadable.</h4>
 <p1>For this action you need to select a permission file by using the Permission file area<br>
 and you need to enter username and password of that permission file.<br>
 Then just press view button and informations will fill the spaces under. (View button located on the left of the password label)<br>
