@@ -11,10 +11,14 @@
   </p1>
   <h2>Create Graaf file.</h2>
 <img src="https://raw.githubusercontent.com/Cryptor-droid/graaf/master/Images/a%201.jpg" style="float:left">
-<p1>Pretty much self explanatory.</p1>
+<p1>Pretty much self explanatory.<br>
+You need to enter same username and password used for creating your permission file.
+</p1>
 <h2>Decrypt</h2>
 <img src="https://raw.githubusercontent.com/Cryptor-droid/graaf/master/Images/b.jpg" style="float:left">
-<p1>It's also Pretty much self explanatory.</p1>
+<p1>It's also Pretty much self explanatory.
+<br>
+You need to enter same username and password used for creating your permission file.</p1>
 <h2>Permission Viewer</h2>
 <img src="https://raw.githubusercontent.com/Cryptor-droid/graaf/master/Images/c.jpg" style="float:left">
 <p1>This tab can be used for creating manual or editted permission files. <br>
