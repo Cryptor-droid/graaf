@@ -17,7 +17,7 @@
 <h2>Permission Viewer</h2>
 <img src="https://raw.githubusercontent.com/Cryptor-droid/graaf/master/Images/c.jpg" style="float:left">
 <p1>This tab can be used for creating manual or editted permission files. <br>
-This tab is for viewing content of permission files and se if they corrupted or not.</p1>
+This tab is for viewing content of permission files and see if they corrupted or not.</p1>
 <h3>Creating Manual Permission files</h3>
 <p1>For this action you can ignore select permission file area on the top.<br>
   you can write everything in any of those areas. (be sure you put ";" in date area)<br>
