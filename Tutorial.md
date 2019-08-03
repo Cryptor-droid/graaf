@@ -1,7 +1,7 @@
 <h1>Why would I use graaf?</h1>
 <p1>Because it uses randomly generated and encrypted keys to encrypt the actual files. Those keys called permission files and the best part of it, permission files are could be stored on a usb stick and allows you to use usb sticks as keys.</p1>
 <img src="https://raw.githubusercontent.com/Cryptor-droid/graaf/master/Images/a.jpg" style="float:left">
-<h1>The Menus</h1>
+<h1>Tabs</h1>
 <h2>Create Permission file.</h2>
 <img src="https://raw.githubusercontent.com/Cryptor-droid/graaf/master/Images/a%202.jpg" style="float:left">
 <p1>Permission files will define the username and the password of your encrypted file<br>
